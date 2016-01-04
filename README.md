@@ -1,10 +1,6 @@
 # Casey Yee
 
-## UX Design Engineer
-
-### Summary
-
-Strong technical knowledge and design expertise.  Looking for world-changing opportunities.
+*Strong technical knowledge and design expertise.  Looking for world-changing opportunities.*
 
 ## Expertise
 
@@ -125,3 +121,9 @@ Website development for various publicly traded companies.
 
 - Design and program web sites to suite client needs.
 - Plan, design and develop a investment research portal that would later become our focus, Stockhouse.com
+
+## Contact
+
+I'm located in Vancouver, BC.
+
+Email caseyyee.ca@gmail.com or call at 778 883 8800
