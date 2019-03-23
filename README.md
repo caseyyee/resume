@@ -1,17 +1,10 @@
----
-layout: base.njk
-title: Casey Yee - Resume
----
-
-
 # Casey Yee
 
 www.caseyyee.com / caseyyee.ca@gmail.com / 778 883 8800 /
 
 [Download PDF resume](https://gitprint.com/caseyyee/resume/master/README.md)
 
-
-## Expertise
+# Expertise
 
 * Product design and strategy
 * User experience design
@@ -19,9 +12,9 @@ www.caseyyee.com / caseyyee.ca@gmail.com / 778 883 8800 /
 * Developer advocacy
 * Full-stack web development
 
-## Experience
+# Experience
 
-### Virtual and Augmented Reality Research & Design
+## Virtual and Augmented Reality Research & Design
 
 **Mozilla Corporation**
 
@@ -29,17 +22,16 @@ www.caseyyee.com / caseyyee.ca@gmail.com / 778 883 8800 /
 
 I work on the Mozilla Mixed Reality team where where I research, design, develop VR and AR products, tools, technology for the open web. Along the way, i've also been a developer advocate, worked with various partners and taken key roles in the development of the program.
 
-- Mozilla Reality VR web browser
-- A-Frame content creation tools
-- Unity game-engine assets for WebVR
-- Worked with W3C community group
-- Helped form WebVR API's
-- Prototyped several browers and experiences
+* Mozilla Reality VR web browser
+* A-Frame content creation tools
+* Unity game-engine assets for WebVR
+* Worked with W3C community group
+* Helped form WebVR API's
+* Prototyped several browers and experiences
+* [More about Firefox Reality](http://caseyyee.com/projects/firefox-reality/)
+* [More about VR content tools](http://caseyyee.com/projects/webvr-tools/)
 
-- [More about Firefox Reality](http://caseyyee.com/projects/firefox-reality/)
-- [More about VR content tools](http://caseyyee.com/projects/webvr-tools/)
-
-### Senior UX Design Engineer
+## Senior UX Design Engineer
 
 **Mozilla Corporation**
 
@@ -52,7 +44,7 @@ Firefox OS is a open-source smartphone operating system built entirely using web
 - Worked with engineers to implement design and features.
 - More about [Firefox OS](http://caseyyee.com/projects/firefox-os/)
 
-### Senior Front-End Engineer
+## Senior Front-End Engineer
 
 **Blast Radius**
 
@@ -69,7 +61,7 @@ A major achievement during my time at Blast Radius was creating the Nike Air Jor
 
 - More about [Air Jordan 2012](http://caseyyee.com/projects/aj2012/)
 
-### Senior Instructor, Digital Design
+## Senior Instructor, Digital Design
 
 **Vancouver Film School**
 
@@ -85,7 +77,7 @@ Some of my key contributions to the program include:
 - Designed and programmed the Digital Design blog “OOMPH”
 - [See more about VFS](http://caseyyee.com/projects/vfs/)
 
-### Co-Founder
+## Co-Founder
 
 **BigGreen Agency**
 
@@ -101,7 +93,7 @@ My responsibilities at BigGreen include:
 
 Some of BigGreens clients include: Rennie Marketing, MAC Marketing, Concord Pacific, Polygon Homes, Townline, BOSA Properties, Westbank, Westin, Intrawest.
 
-### Development Manager
+## Development Manager
 
 **Speedcast Telecommunications**
 
@@ -116,7 +108,7 @@ My responsibilities at Speedcast include:
 
 Some Speedcast clients include: CNNfn, Bloomberg Financial, CNBC, Fashion TV, MTV Asia, Japan TV, Arirang TV
 
-### CTO
+## CTO
 
 **Stockhouse, Stockgroup Media Inc.**
 
@@ -137,7 +129,7 @@ In addition to my management roles, i was responsible for building:
 - ‘Bullboards’ discussion forum
 - Portfolio management tools
 
-### Web designer / developer
+## Web designer / developer
 
 **Berwick Management Corp.**
 
