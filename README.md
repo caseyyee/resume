@@ -8,12 +8,12 @@ caseyyee.com / caseyyee.ca@gmail.com / 778 883 8800
 ## What I do
 Product design, UX and full-stack code for cool new things like AR/VR, AI, IOT, Voice and much more.
 
-## Some organizations and brands I have worked with
+## Some organisations and brands I've worked with
 
-Mozilla, Google, Samsung, Oculus, W3C, EFF
-Nike, McDonalds, Nordstroms, Olympics 2010, 
-NFB Interactive, BC Hydro, UBC, VFS, 
-Cossette, Fjord, Blast Radius, Rennie, Concord Pacific
+Mozilla, Google, Samsung, Oculus, W3C, EFF, Vimeo, Unity, Johnson & Johnson,  
+Nike, McDonalds, Nordstroms, Olympics 2010,  NFB Interactive,  
+BC Hydro, UBC, VFS, Cossette, Fjord, Blast Radius,  
+Rennie, Concord Pacific, BOSA
 
 ## Skills
 
@@ -24,15 +24,15 @@ WebGL/three.js, Unity, C#
 
 ## Experience
 
-### VR/AR Poduct design, research & development
+### VR/AR Product Design, Research & Development
 
 **Mozilla Corporation**
 
 *September 2014 - 2019, Remote, Vancouver BC*
 
-I work on the Mozilla Mixed Reality team where where I research, design, develop VR and AR products, tools, technology for the open web. Along the way, i've also been a advocate of the technology and worked with various partners on developing their ideas using the technology. I've also taken key roles in the creation of the program.
+I worked on the Mozilla Mixed Reality team where I researched, design, developed VR and AR products, tools and technology for the open web. Along the way,  I was also a external and internal of WebVR and worked with various partners to develop  their ideas using the technology. I've also taken key roles in the creation of the program.
 
-* Mozilla Reality VR web browser
+* Firefox Reality Web Browser for mobile headsets
 * Unity game-engine assets for WebVR
 * A-Frame content creation tools
 * Worked with W3C community group
