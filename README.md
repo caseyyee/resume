@@ -1,6 +1,7 @@
 # Casey Yee
 
-www.caseyyee.com / caseyyee.ca@gmail.com / 778 883 8800 /
+caseyyee.com / caseyyee.ca@gmail.com / 778 883 8800  
+[Twitter@whoyee](http://twitter.com/whoyee) / [LinkedIn](https://www.linkedin.com/in/whoyee/)  
 
 [Download PDF resume](https://gitprint.com/caseyyee/resume/master/README.md)
 
