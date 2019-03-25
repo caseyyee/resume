@@ -4,27 +4,29 @@ www.caseyyee.com / caseyyee.ca@gmail.com / 778 883 8800 /
 
 [Download PDF resume](https://gitprint.com/caseyyee/resume/master/README.md)
 
-# Expertise
+# What I do:
+Product design, UX and full-stack code for cool new things like AR/VR, AI, IOT, Voice and much more.
 
-* Product design and strategy
-* User experience design
-* Technology analysis, design and development
-* Developer advocacy
-* Full-stack web development
+# A few organizations and brands I have worked with
+
+Mozilla, Google, Samsung, Oculus, W3C, EFF
+Nike, McDonalds, Nordstroms, Olympics 2010, 
+NFB Interactive, BC Hydro, UBC, VFS, 
+Cossette, Fjord, Blast Radius, Rennie, Concord Pacific
 
 # Experience
 
-## Virtual and Augmented Reality Research & Design
+## VR/AR Poduct design, research & development
 
 **Mozilla Corporation**
 
 *September 2014 - 2019, Remote, Vancouver BC*
 
-I work on the Mozilla Mixed Reality team where where I research, design, develop VR and AR products, tools, technology for the open web. Along the way, i've also been a developer advocate, worked with various partners and taken key roles in the development of the program.
+I work on the Mozilla Mixed Reality team where where I research, design, develop VR and AR products, tools, technology for the open web. Along the way, i've also been a advocate of the technology and worked with various partners on developing their ideas using the technology. I've also taken key roles in the creation of the program.
 
 * Mozilla Reality VR web browser
-* A-Frame content creation tools
 * Unity game-engine assets for WebVR
+* A-Frame content creation tools
 * Worked with W3C community group
 * Helped form WebVR API's
 * Prototyped several browers and experiences
@@ -37,11 +39,14 @@ I work on the Mozilla Mixed Reality team where where I research, design, develop
 
 *April 2012 - September 2014, Vancouver BC*
 
-Firefox OS is a open-source smartphone operating system built entirely using web technologies.   As Senior UX Design Engineer, I designed and prototyped many of the key user-experience design principles and patterns that went into the OS.    I also designed much of the user experience of the core system components and applications.
+Firefox OS is a open-source smartphone operating system built entirely using web technologies.   As Senior UX Design Engineer, I designed and prototyped many of the key user-experience concepts, principles and patterns that went into the OS.    I also designed much of the user experience of the core system components and applications.
 
-- Worked with product stakeholders and partners on requirements and specifications.
-- Designed and prototyped style-guides, user interactions and various application and system components.
-- Worked with engineers to implement design and features.
+
+- User flows and interaction design for key applications including Email, Calendar, Photo, Contacts.
+- Notification, permissions, dialogues and other core system UX.
+- UI styles, guides and kit.
+- Explored and prototype various designs around lock screen.
+- Collaborated and worked with partners from various vendors.
 - More about [Firefox OS](http://caseyyee.com/projects/firefox-os/)
 
 ## Senior Front-End Engineer
@@ -50,12 +55,12 @@ Firefox OS is a open-source smartphone operating system built entirely using web
 
 *November 2011 - March 2012, Vancouver BC*
 
-Working collaboratively with the design team on connecting of ideas with the technologies to create rich user experiences for various digital advertising and marketing campaigns. Some of the key responsibilities in this role were to:
+Working collaboratively with the design team on connecting ideas with the technologies to create rich user experiences for various digital advertising and marketing campaigns. Some of the key responsibilities in this role were to:
 
-- Work closely with the client, creative director and design team to on ideas and concepts.
+- Work closely with the client, creative director and design team to on ideas.
 - Researching and prototyping various designs and interactions.
 - Directing front-end development engineering team and working with back-end engineers to integrate work.
-- Working with Release Engineering and Quality Assurance teams on deploying applications and  create test and defect tracking plans.
+- Working with Release Engineering and Quality Assurance teams on deploying applications and create test and defect tracking plans.
 
 A major achievement during my time at Blast Radius was creating the Nike Air Jordan 2012 website. The site picked up numerous awards and pioneered new techniques in responsive, animation and web performance never before seen at the time.
 
@@ -67,14 +72,14 @@ A major achievement during my time at Blast Radius was creating the Nike Air Jor
 
 *January 2010 - December 2011, Vancouver BC*
 
-The Digital Design program at Vancouver Film School is renowned from cranking out some of the most talented interactive designers in the industry. Reporting to the head of department and program manager, i was responsible for develop and implementing the interactive curriculum as part of the 1 year intensive program at the school.
+The Digital Design program at Vancouver Film School is renowned from cranking out some of the most talented interactive designers in the industry. Reporting to the head of department and program manager, i was responsible for developing and implementing the web design curriculum as part of the 1 year intensive program at the school.
 
 Some of my key contributions to the program include:
 
 - Web Interface Development using HTML5, CSS, Javascript/jQuey, Flash Actionscript 3 and WordPress content management system through 7 months (5 terms).
-- Tangible Interfaces and physical computing using Arduino
-- Interactive design and Interface design at VFS Foundation
-- Designed and programmed the Digital Design blog “OOMPH”
+- Tangible Interfaces and physical computing using Arduino.
+- User experience VFS Foundation courses.
+- Designed and developed the Digital Design blog “OOMPH”
 - [See more about VFS](http://caseyyee.com/projects/vfs/)
 
 ## Co-Founder
