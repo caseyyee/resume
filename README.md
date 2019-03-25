@@ -5,19 +5,26 @@ caseyyee.com / caseyyee.ca@gmail.com / 778 883 8800
 
 [Download PDF resume](https://gitprint.com/caseyyee/resume/master/README.md)
 
-# What I do:
+## What I do
 Product design, UX and full-stack code for cool new things like AR/VR, AI, IOT, Voice and much more.
 
-# A few organizations and brands I have worked with
+## Some organizations and brands I have worked with
 
 Mozilla, Google, Samsung, Oculus, W3C, EFF
 Nike, McDonalds, Nordstroms, Olympics 2010, 
 NFB Interactive, BC Hydro, UBC, VFS, 
 Cossette, Fjord, Blast Radius, Rennie, Concord Pacific
 
-# Experience
+## Skills
 
-## VR/AR Poduct design, research & development
+Creative suite, Sketch, Figma, Blender  
+Full stack web development, HTML, CSS, Javascript, Node  
+WebGL/three.js, Unity, C#  
+... and more!
+
+## Experience
+
+### VR/AR Poduct design, research & development
 
 **Mozilla Corporation**
 
@@ -34,7 +41,7 @@ I work on the Mozilla Mixed Reality team where where I research, design, develop
 * [More about Firefox Reality](http://caseyyee.com/projects/firefox-reality/)
 * [More about VR content tools](http://caseyyee.com/projects/webvr-tools/)
 
-## Senior UX Design Engineer
+### Senior UX Design Engineer
 
 **Mozilla Corporation**
 
@@ -50,7 +57,7 @@ Firefox OS is a open-source smartphone operating system built entirely using web
 - Collaborated and worked with partners from various vendors.
 - More about [Firefox OS](http://caseyyee.com/projects/firefox-os/)
 
-## Senior Front-End Engineer
+### Senior Front-End Engineer
 
 **Blast Radius**
 
@@ -67,7 +74,7 @@ A major achievement during my time at Blast Radius was creating the Nike Air Jor
 
 - More about [Air Jordan 2012](http://caseyyee.com/projects/aj2012/)
 
-## Senior Instructor, Digital Design
+### Senior Instructor, Digital Design
 
 **Vancouver Film School**
 
@@ -83,7 +90,7 @@ Some of my key contributions to the program include:
 - Designed and developed the Digital Design blog “OOMPH”
 - [See more about VFS](http://caseyyee.com/projects/vfs/)
 
-## Co-Founder
+### Co-Founder
 
 **BigGreen Agency**
 
@@ -99,7 +106,7 @@ My responsibilities at BigGreen include:
 
 Some of BigGreens clients include: Rennie Marketing, MAC Marketing, Concord Pacific, Polygon Homes, Townline, BOSA Properties, Westbank, Westin, Intrawest.
 
-## Development Manager
+### Development Manager
 
 **Speedcast Telecommunications**
 
@@ -114,7 +121,7 @@ My responsibilities at Speedcast include:
 
 Some Speedcast clients include: CNNfn, Bloomberg Financial, CNBC, Fashion TV, MTV Asia, Japan TV, Arirang TV
 
-## CTO
+### CTO
 
 **Stockhouse, Stockgroup Media Inc.**
 
@@ -135,7 +142,7 @@ In addition to my management roles, i was responsible for building:
 - ‘Bullboards’ discussion forum
 - Portfolio management tools
 
-## Web designer / developer
+### Web designer / developer
 
 **Berwick Management Corp.**
 
