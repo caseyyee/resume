@@ -1,12 +1,15 @@
 # Casey Yee
 
+This is my resume, but I'd _really_ prefer if you [looked at my website](https://caseyyee.com)!
+
 [caseyyee.com](https://caseyyee.com/) / caseyyee.ca@gmail.com / 778 883 8800
 * [Twitter](http://twitter.com/whoyee)
 * [LinkedIn](https://www.linkedin.com/in/whoyee/)
 * [Resume](https://gitprint.com/caseyyee/resume/master/README.md)
 
 ## What I do
-Product design, UX, and full-stack web development for cool new things like AR/VR, AI, IoT, Voice, and much more.
+
+I do many things, but if there was a role that describes me best, it would be a "UX Engineer".  A _UX Engineer_ fits somewhere at the precarious intersection of design and software engineering. More specifically, I like to work in code, but also feature a full compliment of UX and design skills to go along with that.
 
 ## Organisations and brands I’ve worked with
 
@@ -14,17 +17,48 @@ Mozilla, Google, Samsung, Oculus, W3C, EFF, Vimeo, Unity, Johnson & Johnson, Nik
 
 ## Skills
 
-JavaScript & Node.js, WebGL & three.js, HTML, CSS, Sketch, Figma, Blender, Unity & C#, Adobe Creative Suite,<br>
+Software:<br/>
+JavaScript, Node.js, React, WebGL & three.js, HTML, CSS (love it),
+Unity & C#
+
+Design and viz tools:<br/>
+Sketch, Figma, Blender, Adobe Creative Suite,
+
 *… and any new technology! I love to learn and build new things.*
 
 ## Experience
+
+### Engineer Lead, Software products
+
+**Immertec**
+
+*August 2019 - 2020*<br/>
+*Vancouver, BC* *(remote)*<br/>
+*Tampa, FL* *HQ*
+
+Lead role in software engineering and engineering management for key components of the Medoptic product, including infrastructure, services and VR, mobile and desktop VR client applications.
+
+* Software architecture and data design.
+* UX Design, Interface prototyping and development.
+* Worked closely with the research team to optimize for the product for learning outcomes.
+* Worked with sales, product, marketing and design to drive product design requirements.
+* Worked closely with the hardware and operations team to ensure tight integration of various software and hardware components.
+* Worked with senior leadership to develop processes around milestone planning and tracking.
+* Repository and source code management.
+* Team communication tools.
+* Quality assurance, defect tracking and error reporting.
+* Telemetry and data collection tooling.
+* Hiring
+* Mentorship.
+
+[**Read full case on Medoptic**](https://caseyyee.com/projects/medoptic/)
 
 ### VR/AR Product Designer, Research & Development
 
 **Mozilla Corporation**
 
 *September 2014 - 2019*<br>
-*Vancouver, BC* *(and remote)*
+*Vancouver, BC* *(remote)*
 
 I worked on Mozilla’s Mixed Reality team where I researched, design, developed VR and AR products, tools, and technologies for the Open Web. I served as an external and internal advocate of WebVR and worked with various partners to develop their ideas. I took key roles in the creation of these projects:
 
