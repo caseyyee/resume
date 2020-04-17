@@ -9,7 +9,7 @@ This is my resume, but I'd _really_ prefer if you [looked at my website](https:/
 
 ## What I do
 
-I do many things, but if there was a role that describes me best, it would be a "UX Engineer".  A _UX Engineer_ fits somewhere at the precarious intersection of design and software engineering. More specifically, I like to work in code, but also feature a full compliment of UX and design skills to go along with that.
+I do many things, but if there was a role that describes me best, it would be a "UX Engineer". A UX Engineer fits somewhere at the precarious intersection of design and software engineering. More specifically, I like to work in code, but also feature a full complement of UX and design skills to go along with that.
 
 ## Organisations and brands I’ve worked with
 
@@ -28,7 +28,7 @@ Sketch, Figma, Blender, Adobe Creative Suite,
 
 ## Experience
 
-### Engineer Lead, Software products
+### Lead Engineer, Software products
 
 **Immertec**
 
