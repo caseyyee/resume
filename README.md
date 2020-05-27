@@ -7,9 +7,9 @@ This is my resume, but I'd _really_ prefer if you [looked at my website](https:/
 * [LinkedIn](https://www.linkedin.com/in/whoyee/)
 * [Resume](https://gitprint.com/caseyyee/resume/master/README.md)
 
-## What I do
+## I’m a UX Engineer
 
-I do many things, but if there was a role that describes me best, it would be a "UX Engineer". A UX Engineer fits somewhere at the precarious intersection of design and software engineering. More specifically, I like to work in code, but also feature a full complement of UX and design skills to go along with that.
+I like to work in code, but also feature a full complement of UX and design skills to go along with that. Specializing in emerging tech (AR, VR is a big part of that!) and well versed in modern tools and workflows using Javascript, React, Node, WebGL/three, WebRTC, HTML/CSS just to name a few. I am also a fan of Figma, Framer, Adobe CS and other design tools. 
 
 ## Organisations and brands I’ve worked with
 
@@ -17,18 +17,43 @@ Mozilla, Google, Samsung, Oculus, W3C, EFF, Vimeo, Unity, Johnson & Johnson, Nik
 
 ## Skills
 
-Software:<br/>
-JavaScript, Node.js, React, WebGL & three.js, HTML, CSS (love it),
-Unity & C#
+**Dev**
 
-Design and viz tools:<br/>
-Sketch, Figma, Blender, Adobe Creative Suite,
+JS, React, Node, GraphQL, WebGL/three, 3D/AR/VR, serverless, HTML/CSS, Unity & C#, Web Standards, Open Source,
 
-*… and any new technology! I love to learn and build new things.*
+**UX**
+
+Usability, Onboarding, Accessibility, Rapid Prototyping
+
+**Strategy**
+
+Communication, Product, Technology, Team
+
+**Tools**
+
+Github, VSCode, Unity, Figma, Adobe CS, Framer
+
+**Leadership**
+
+Requiremens, Issues & Milestone, Sprint planning, Agile, Scrum, Team stoke!
+
+## Awards
+
+Cannes Lions Bronze – for Mobile, Cyber
+
+The One Show Finalist – Website, Mobile
+
+Marketing Awards Gold – Best Website Communication Arts Webpick of the Week
+
+FWA Featured – Site of the Day
+
+Lotus Awards Lotus – Website
+
+AWWWARDS Featured – Site of the Day Featured – Site of the Month Applied Arts Winner – Best Website Winner – Craft
 
 ## Experience
 
-### Lead Engineer, Software products
+### Lead Engineer, Medoptic
 
 **Immertec**
 
@@ -53,7 +78,7 @@ Lead role in software engineering and engineering management for key components 
 
 [**Read full case on Medoptic**](https://caseyyee.com/projects/medoptic/)
 
-### VR/AR Product Designer, Research & Development
+### UX Engineer, WebXR, AR, VR
 
 **Mozilla Corporation**
 
@@ -72,7 +97,7 @@ I worked on Mozilla’s Mixed Reality team where I researched, design, developed
 [**Read my case study on Firefox Reality.**](http://caseyyee.com/projects/firefox-reality/#prototypes)  
 [**Read my case study on VR creation tools.**](http://caseyyee.com/projects/webvr-tools/)
 
-### Senior UX Design Engineer
+### UX Engineer, Firefox OS
 
 **Mozilla Corporation**
 
@@ -88,7 +113,7 @@ I worked on Mozilla’s Mixed Reality team where I researched, design, developed
 
 [**Read my case study on Firefox OS.**](http://caseyyee.com/projects/firefox-os/)
 
-### Senior Front-End Engineer
+### Lead Front-End Engineer
 
 **Blast Radius**
 
@@ -190,3 +215,40 @@ I created public-facing web sites and internal corporate portals for various pub
 
 - Designed and programed web sites to suite clients’ needs
 - Independently planned, designed, and developed a portal for investment research that evolved into [Stockhouse.com](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=105658345)
+
+## Articles, Writing & Mentions
+
+### Press
+
+* [UX & Growth Podcast with Austin Knight](soundcloud.com/ux-and-growth/webvr-a-frame-with-casey-yee-ux-engineer-at-mozilla)
+
+* [WIRED Magazine - You Gotta Try DIY Virtual Reality Even if You Make Hideous Things](www.wired.com/2017/02/gotta-try-diy-virtual-reality-even-make-hideous-things)
+Clive Thompson
+
+* [KILLSCREEN \\VERSIONS - The Future of the Internet is Coming and it’s in VR](killscreen.com/versions/future-internet-coming-vr)
+Jason Johnson
+
+* [FAST COMPANY]( www.fastcompany.com/3058591/why-a-virtual-reality-web-may-never-happen)
+Mark Wilson
+
+### Writing
+* [Create VR on the Web Using Unity3D Mozilla Hacks](hacks.mozilla.org/2018/02/create-vr-on-the-web-using-unity3d/)
+Casey Yee, February 2018
+
+* [W3C Workshop on Web and Virtual Reality: A Look Ahead Mozilla Hacks](hacks.mozilla.org/2016/12/w3c-workshop-on-web-and-virtual-reality-a-look-ahead/)
+Chris Van Wiemeersch, Casey Yee, December 2016
+
+* [Connecting Virtual Worlds: Hyperlinks in WebVR](blog.mozvr.com/connecting-virtual-worlds-hyperlinks-in-webvr/)
+Casey Yee, November 2016
+
+* [Tech in Asian 2016 - Tokyo](docs.google.com/presentation/d/1-11zrfO2_hREeBWM71MAXvKDE0Uo1Xqemgnzu63GcbY/ed it#slide=id.g3ddd7ddd2c_0_0)
+Casey Yee & Chris Van Wiemeersch, February 2016
+
+* [Puzzle Rain: A Musical WebVR Journey for the HTC Vive](blog.mozvr.com/puzzle-rain/)
+Casey Yee, October 2016
+
+* [Everything you wanted to know about Oculus CV1, Oculus Home, 1.3 runtime and WebVR](blog.mozvr.com/oculus-home-rift-cv1-webvr/)
+Casey Yee, April 2016
+
+* [Introducing the WebVR 1.0 API Proposal](hacks.mozilla.org/2016/03/introducing-the-webvr-1-0-api-proposal/)
+Casey Yee, March 2016
