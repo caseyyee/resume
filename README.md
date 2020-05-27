@@ -7,6 +7,13 @@ This is my resume, but I'd _really_ prefer if you [looked at my website](https:/
 * [LinkedIn](https://www.linkedin.com/in/whoyee/)
 * [Resume](https://gitprint.com/caseyyee/resume/master/README.md)
 
+**Jump to:**
+* [Organizations & Brands](#organisations-and-brands-ive-worked-with)
+* [Skills](#skills)
+* [Awards](#awards)
+* [Experience](#experience)
+* [Articles, Writing and Press](#articles-writing--mentions)
+
 ## I’m a UX Engineer
 
 I like to work in code, but also feature a full complement of UX and design skills to go along with that. Specializing in emerging tech (AR, VR is a big part of that!) and well versed in modern tools and workflows using Javascript, React, Node, WebGL/three, WebRTC, HTML/CSS just to name a few. I am also a fan of Figma, Framer, Adobe CS and other design tools. 
