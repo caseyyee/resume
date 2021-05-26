@@ -2,7 +2,7 @@
 
 This is my resume, but I'd _really_ prefer if you [looked at my website](https://caseyyee.com)!
 
-[caseyyee.com](https://caseyyee.com/) / caseyyee.ca@gmail.com / 778 883 8800
+[caseyyee.com](https://caseyyee.com/) / caseyyee.ca@gmail.com
 * [Twitter](http://twitter.com/whoyee)
 * [LinkedIn](https://www.linkedin.com/in/whoyee/)
 * [Resume](https://gitprint.com/caseyyee/resume/master/README.md)
