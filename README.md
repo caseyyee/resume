@@ -14,9 +14,9 @@ This is my resume, but I'd _really_ prefer if you [looked at my website](https:/
 * [Experience](#experience)
 * [Articles, Writing and Press](#articles-writing--mentions)
 
-## I’m a UX Engineer
+## I’m a Product Engineer
 
-I like to work in code, but also feature a full complement of UX and design skills to go along with that. Specializing in emerging tech (AR, VR is a big part of that!) and well versed in modern tools and workflows using Javascript, React, Node, WebGL/three, WebRTC, HTML/CSS just to name a few. I am also a fan of Figma, Framer, Adobe CS and other design tools. 
+I primiarly work in code, but also feature a full complement of Product and UX skills to go along with that. Specializing in emerging tech (AR, VR is a big part of that!) and well versed in modern tools and workflows using Javascript, React, Node, WebGL/three.js, WebRTC, HTML/CSS just to name a few. I am also a fan of Figma, Framer, Adobe CS and other design tools. 
 
 ## Organisations and brands I’ve worked with
 
@@ -26,7 +26,7 @@ Mozilla, Google, Samsung, Oculus, W3C, EFF, Vimeo, Unity, Johnson & Johnson, Nik
 
 **Dev**
 
-JS, React, Node, GraphQL, WebGL/three, 3D/AR/VR, serverless, HTML/CSS, Unity & C#, Web Standards, Open Source,
+JS, React, Node, GraphQL, WebGL/three.js, 3D/AR/VR, serverless, HTML/CSS, Unity & C#, Web Standards, Open Source,
 
 **UX**
 
@@ -59,6 +59,20 @@ Lotus Awards Lotus – Website
 AWWWARDS Featured – Site of the Day Featured – Site of the Month Applied Arts Winner – Best Website Winner – Craft
 
 ## Experience
+
+### Engineer - Web, UNITY
+
+*May 2021 - Present*<br/>
+*Vancouver, BC* *(remote)*
+
+Storefront team, exploring e-commerce service and product ideas.
+
+### Lead Engineer - Web, VRIFY
+
+*August 2020 - May 2021*<br/>
+*Vancouver, BC* *(remote)*
+
+Lead product development for 3D visualization, presentation and collaboration tools.
 
 ### Lead Engineer, Medoptic
 
