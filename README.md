@@ -6,7 +6,7 @@ For a better visuals, [checkout my website](https://caseyyee.com)
 * [LinkedIn](https://www.linkedin.com/in/whoyee/)
 * [Twitter](http://twitter.com/whoyee)
 
-## Experinced Engineer, Designer and Problem Solver
+## Experienced Engineer, Designer and Problem Solver
 
 While I primarily work with code, I have years of experience in a wide range of creative disciplines.  I solve challenging problems using advanced technologies, and applying modern tools and workflows.
 
@@ -18,10 +18,10 @@ While I primarily work with code, I have years of experience in a wide range of 
 *Vancouver, BC* *(remote)*
 
 * Unity Services Dashboard
-* Digital Twins product dashboard and visualuzations
+* Digital Twins product dashboard and visualizations
 * Prototype product development
 
-Full-sack development, DevOps, Product Prototyping\
+Full-stack development, DevOps, Product Prototyping\
 React, WebGL/three.js/react-three-fibre, WebRTC, WebSockets\
 Library development, Javascript, Typescript, Unity, C#
 
