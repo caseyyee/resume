@@ -97,7 +97,7 @@ Interaction Design, UX development, Javascript, Canvas, Mobile performance
 *Vancouver, BC*
 
 * Digital Design Program\
-Web development
+Web development\
 Physical Interfaces
 
 Ciriculam design, development and instruction
@@ -172,7 +172,7 @@ Chris Van Wiemeersch, Casey Yee, December 2016
 * [Connecting Virtual Worlds: Hyperlinks in WebVR](blog.mozvr.com/connecting-virtual-worlds-hyperlinks-in-webvr/)
 Casey Yee, November 2016
 
-* [Tech in Asian 2016 - Tokyo](docs.google.com/presentation/d/1-11zrfO2_hREeBWM71MAXvKDE0Uo1Xqemgnzu63GcbY/ed it#slide=id.g3ddd7ddd2c_0_0)
+* [Tech in Asian 2016 - Tokyo](docs.google.com/presentation/d/1-11zrfO2_hREeBWM71MAXvKDE0Uo1Xqemgnzu63GcbY/edit#slide=id.g3ddd7ddd2c_0_0)
 Casey Yee & Chris Van Wiemeersch, February 2016
 
 * [Puzzle Rain: A Musical WebVR Journey for the HTC Vive](blog.mozvr.com/puzzle-rain/)
