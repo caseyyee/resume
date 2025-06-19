@@ -1,155 +1,169 @@
 # Casey Yee
+**Full Stack Web, AI, UX, 3D, Product Engineering**
 
-For a better visuals, [checkout my website](https://caseyyee.com)
+caseyyee.ca@gmail.com<br/>
++1 778 883 8800<br/>
+LinkedIn: in/whoyee<br/>
+Web: caseyyee.com 
 
-* [caseyyee.ca@gmail.com](caseyyee.ca@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/whoyee/)
-* [Twitter](http://twitter.com/whoyee)
+## Skills, 10+ YOE
 
-## Experienced Engineer, Designer and Problem Solver
+Typescript, Javascript, Tailwind, React, Next, NestJs, Prisma, Drizzle, Postgres, Jest, Vitest<br/>
+AI agents & workflows using MCP, LLMs, Python<br/>
+3D graphics, WebGL, React Three Fibre, WebRTC<br/>
+Ops, CI/CD, DevEx, Infra AWS, Google Cloud
 
-While I primarily work with code, I have years of experience in a wide range of creative disciplines.  I solve challenging problems using advanced technologies, and applying modern tools and workflows.
+## Work Experience
+**7 years Mozilla, 4 years Unity, ++startups**
 
-## Work History
+### Kable
+AI Powered Video Streaming
 
-### Full Stack Engineer - UNITY
+#### Senior Engineer
 
-*May 2021 - Present*<br/>
-*Vancouver, BC* *(remote)*
+March 2025 - Current<br/>
+Vancouver, BC (remote)
 
-* Unity Services Dashboard
-* Digital Twins product dashboard and visualizations
-* Prototype product development
+Kable AI R&D
+* LLM integration with the Kable video streaming service using MCP server (https://modelcontextprotocol.io/).  Providing tools to be able to search, recommend and playback videos with AI augmented data to land users directly into relevant content streams.
+* MCP client development, with generative UI interfaces.  A Novel way to build user interfaces using UI.
 
-Full-stack development, DevOps, Product Prototyping\
-React, WebGL/three.js/react-three-fibre, WebRTC, WebSockets\
-Library development, Javascript, Typescript, Unity, C#
+Kable Streaming
+* Application Guide, Network, Creator Dashboard features.
+* Content Analytics Tracking, Video views and duration tracking.
+* Tailwind, React, Next.js, React Query, Prisma, Nest.js
 
-### Lead Engineer - Web, VRIFY
+### UNITY Technologies
+Realtime 3D Software
 
-*August 2020 - May 2021*<br/>
-*Vancouver, BC* *(remote)*
+#### Senior Engineer
 
-* Realtime 3D Visualization & Presentation platform
+May 2021 - March 2025<br/>
+Vancouver, BC (remote)
 
-Full-stack development, Devops, Product Prototyping, Research, Planning\
-Vue.js, WebGL/three.js, WebRTC, WebSockets, Javascript
+Parsec App Remote Desktop and Application Streaming (parsec.app)
+* Native desktop application + Webview UI built using Typescript, React, Libmatoya.  Replaces existing native C solution with new Web UI interface for faster development, and deployment.  Attained reliability and feature parity on all features including Login, Computer Connections, Status and Settings features.
 
-### Lead Engineer, Medoptic
+Parsec Dashboard, Teams Management Web Portal
+* Signup and Login user flows, Including Enterprise SAML and SSO login. “Team” users, computer management and app-rule features, 
+* Stack includes Typescript, Next.js, XState, Cloudflare, Go.
 
-**Immertec**
+Parsec DevOps, Scaling & Compliance
+* Parsec.app see’s 600,000+ MAU, 100,000+ DAU
+* Responsible for build, test and deploy pipelines with GIthub Actions, ESBuild, WebPack, AWS, S3
+* Lead efforts on app Performance, Reliability and Availability using Sentry
+* SOC2 compliance
 
-*August 2019 - 2020*<br/>
-*Vancouver, BC* *(remote)*<br/>
-*Tampa, FL* *HQ*
+Unity Asset Manager 3D Visualizations and Configurators
+* Prototype Industrial and Enterprise use cases, using Unity engine and services.
+* Product Visualization, Product Configurators and Integrations and with various platforms.
+* Stack includes Typescript, Next.js, WebGL/three.js, Google Cloud Services, Postgres, Unity C#
 
-* VR Surgical Training Platform
+Responsibilities also include
+* System Design and Architecture, Code Quality, Review, Mentoring and Leadership.
+* Developer Experience and Workflows
+* Feature Development, Working closely with Product and Design Teams to Prioritize, Design, Develop and ship Features.
+* Data Analytics, Application and Error Telemetry, Automated Unit, Integration and e2e Testing.  Jest, Vitest, Storybook, Cypress.
 
-Full-stack development, Devops, Prototyping, Research, Planning\
-Realtime 4k stereoscopic VR encoding and streaming\
-VR and mobile user interface development, Platform services and applications\
-React, WebGL/react-three-fibre, WebRTC, WebSockets, Javascript, Unity, C#
+### VRIFY
+3D Visualization Platform
 
-### UX Engineer, WebXR, AR, VR
+#### Lead Engineer, Web
 
-**Mozilla Corporation**
+August 2020 - May 2021<br/>
+Vancouver, BC (remote)
 
-*September 2014 - 2019*<br>
-*Vancouver, BC* *(remote)*
+Responsibilities & Features
+* Lead Web Platform Engineering team, Working closely with leadership, Product, 3D Content teams, to design, plan and ship features.
+* Full-Stack Development, DevOps, Product Prototyping.
+* Live Multi-user 3D viewport and application navigation features.
+* Realtime Markup, Annotation and Comment capability.
+* Integrated Video and Audio conference capability with WebRTC with AWS Chime
+* Stack includes Typescript, Vue.js, WebGL/three.js, WebRTC, WebSockets
+* Docker, AWS, Go, GRPC
 
-* [Firefox Reality VR Web Browser](https://mixedreality.mozilla.org/firefox-reality)
-* WebXR tools and frameworks, [Unity exporter](https://hacks.mozilla.org/2018/02/create-vr-on-the-web-using-unity3d/), [A-Frame](https://aframe.io/), [UI tools](http://caseyyee.com/projects/webvr-tools/)
-* [W3C Immersive Web Community Group](https://www.w3.org/community/immersive-web/)
-* [W3C WebVR API](https://hacks.mozilla.org/2016/03/introducing-the-webvr-1-0-api-proposal/)
+### Immertec
+VR Surgical Training platform
 
-Full-stack development, Prototyping, Research, Web standards, Developer Advocacy\
-WebXR, WebGL/three.js/react-three-fibre\
-Javascript, WebRTC, Web Sockers, Unity, C#, Web API's
+#### Lead Engineer, Medoptic
 
-### UX Engineer, Firefox OS
+August 2019 - March 2020<br/>
+Vancouver, BC (remote)<br/>
+Tampa, FL, HQ
 
-**Mozilla Corporation**
+Responsibilities & Features
+* Lead Web and Mobile Engineering team.  Working closely with the HCI research team,  product and design, and operations team.
+* VR and mobile interface development, Platform services and applications.
+* Full-stack development, DevOps, Prototyping, Research, Planning
+* Realtime 4k stereoscopic VR encoding and streaming, using WebRTC, WebSockets.
+* React, WebGL/react-three-fibre, Javascript, Unity, C#
 
-*April 2012 - September 2014*<br>
-*Vancouver, BC*
+### Mozilla Corporation
+Firefox, OS, WebXR
 
-* [Firefox OS](https://techcrunch.com/2013/08/25/firefox-os-gives-the-open-web-gets-central-billing/) Open source mobile smart phone OS.
-  
-Interaction Design, UX/UI patterns, Style guides\
-Application prototyping and development, Javascript, Web API's
+#### Senior UX Engineer
 
-### Lead Front-End Engineer
+September 2012 - 2019<br/>
+Vancouver, BC (and remote)
 
-**Blast Radius**
+Products & Features
+* Mozilla Mixed Reality, VR Web Browser
+* A-Frame VR content creation framework
+* Unity WebXR exporter Unity Asset Store assets
+* W3C WebVR API, W3C Immersive Web Community Group, W3C events
+* Firefox OS Web Phone Operating System
 
-*November 2011 - March 2012*<br>
-*Vancouver, BC*
+Roles & Technologies
+* Javascript, React, WebGL/three.js
+* UX Design and Prototyping, API polyfills, Libraries
+* Developer support, advocacy and relations
+* Worked with other browser vendors (Chrome, Oculus, Edge) on Web API Design, Development and standards.
 
-* Nike Air Jordan 2012
-  
-Interaction Design, UX development, Javascript, Canvas, Mobile performance
+### Blast Radius
+Design Agency
 
-### Senior Instructor, Digital Design
+#### Lead Front-End Engineer
 
-**Vancouver Film School**
+November 2011 - March 2012<br/>
+Vancouver, BC
 
-*January 2010 - December 2011*<br>
-*Vancouver, BC*
+Notable Projects
+* Nike Air Jordan 
+* Jumpman 23
 
-* Digital Design Program\
-Web development\
-Physical Interfaces
+Roles & Technologies
+* Lead Front-end development teams
+* High performance Javascript, HTML, CSS and Web Animation
+* Worked closely with client, creative directors, and design teams
+* Researched and prototyped design
 
-Ciriculam design, development and instruction
+### Vancouver Film School
+Digital Design Program, Education
 
-### Co-Founder
+#### Senior Instructor, Digital Design
 
-**BigGreen Agency**
+January 2010 - December 2011<br/>
+Vancouver, BC
 
-*2004 - 2009*<br>
-*Vancouver, BC*
+Senior instructor for the Digital Design program at Vancouver Film School.  Reporting to the Head of Department & Program Manager, I created the design and development curriculum as part of the school’s one-year intensive program.
 
-* Digital marketing products and technologies
-
-Product development, Creative and technical direction, Research and Development
-
-### Development Manager
-
-**Speedcast Telecommunications**
-
-*2000 - 2003*<br>
-*Hong Kong*
-
-* [Speedcast](https://www.speedcast.com/) satellite applications and broadband ISP
-
-### Chief Technical Officer (CTO)
-
-**Stockhouse & Stockgroup Media Inc.**
-
-*1996 - 2001*<br>
-*Vancouver, BC*
-
-* [Stockhouse.com](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=105658345) stock reseach portal and community
-
-Internet Quotes, Charts, News and Community Forums
+* Instructed Web-Interface Development using HTML5, CSS, JavaScript (jQuery), Flash, and WordPress through five terms
+* Instructed Tangible Interfaces courses on physical computing using Arduino micro computers
+* Instructed User Experience Design fundamentals.
 
 ## Awards
 
-Cannes Lions Bronze – for Mobile, Cyber
+* Cannes Lions Bronze – for Mobile, Cyber
+* The One Show Finalist – Website, Mobile
+* Marketing Awards Gold – Best Website
+* Communication Arts Webpick of the Week
+* FWA Featured – Site of the Day
+* Lotus Awards Lotus – Website
+* AWWWARDS Featured – Site of the Day Featured – Site of the Month
+* Applied Arts Winner – Best Website Winner – Craft
 
-The One Show Finalist – Website, Mobile
 
-Marketing Awards Gold – Best Website Communication Arts Webpick of the Week
-
-FWA Featured – Site of the Day
-
-Lotus Awards Lotus – Website
-
-AWWWARDS Featured – Site of the Day Featured – Site of the Month Applied Arts Winner – Best Website Winner – Craft
-
-## Articles, Writing & Mentions
-
-### Press
+## Articles & Mentions
 
 * [UX & Growth Podcast with Austin Knight](soundcloud.com/ux-and-growth/webvr-a-frame-with-casey-yee-ux-engineer-at-mozilla)
 
@@ -163,6 +177,7 @@ Jason Johnson
 Mark Wilson
 
 ### Writing
+
 * [Create VR on the Web Using Unity3D Mozilla Hacks](hacks.mozilla.org/2018/02/create-vr-on-the-web-using-unity3d/)
 Casey Yee, February 2018
 
