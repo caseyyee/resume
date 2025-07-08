@@ -6,17 +6,21 @@ caseyyee.ca@gmail.com<br/>
 LinkedIn: in/whoyee<br/>
 Web: caseyyee.com 
 
-## Skills, 10+ YOE
-
-Typescript, Javascript, Tailwind, React, Next, NestJs, Prisma, Drizzle, Postgres, Jest, Vitest<br/>
-AI agents & workflows using MCP, LLMs, Python<br/>
-3D graphics, WebGL, React Three Fibre, WebRTC<br/>
-Ops, CI/CD, DevEx, Infra AWS, Google Cloud
-
 ## Work Experience
-**7 years Mozilla, 4 years Unity, ++startups**
+10+ YOE, 7 years Mozilla, 4 years Unity, ++startups
 
-### Kable
+### Leadership
+Ability to work with multiple teams and can be engaged with Product, Design and other leadership in detailed discussions while providing deep technical knowledge.
+Help Guide System Design, Architecture, Developer Experience, Code Quality and Workflows
+Prioritize and and manage requirements and features
+
+### Full Stack Development Expertise
+Typescript, Javascript, Tailwind, React, Next, NestJs, Prisma, Drizzle, Postgres, Jest, Vitest
+AI agents & workflows using MCP, LLMs, Python
+3D graphics, WebGL, React Three Fibre, WebRTC
+Ops, CI/CD, DevEx, Infra, AWS, Google Cloud
+
+## Kable
 AI Powered Video Streaming
 
 #### Senior Engineer
@@ -25,15 +29,19 @@ March 2025 - Current<br/>
 Vancouver, BC (remote)
 
 Kable AI R&D
-* LLM integration with the Kable video streaming service using MCP server (https://modelcontextprotocol.io/).  Providing tools to be able to search, recommend and playback videos with AI augmented data to land users directly into relevant content streams.
-* MCP client development, with generative UI interfaces.  A Novel way to build user interfaces using UI.
+* LLM integration with the Kable video streaming service using MCP server. Providing tools to be able to search, recommend and playback videos with AI augmented data to direct users into relevant video streams.
+* MCP client development, with generative UI interfaces.  A Novel way to build user interfaces using AI.  Client built with Vercel AI
+* Python AI models services integration using NestJS
+  * Python workers to evaluate video quality, content safety and video to text transcriptions
+  * LLMs to tag and analyze videos for engagement scoring
+  * Computer vision and face detection for hardware
 
 Kable Streaming
 * Application Guide, Network, Creator Dashboard features.
 * Content Analytics Tracking, Video views and duration tracking.
 * Tailwind, React, Next.js, React Query, Prisma, Nest.js
 
-### UNITY Technologies
+## UNITY Technologies
 Realtime 3D Software
 
 #### Senior Engineer
