@@ -2,12 +2,8 @@
 **Full Stack Web, AI, UX, 3D, Product Engineering**
 
 caseyyee.ca@gmail.com<br/>
-+1 778 883 8800<br/>
 LinkedIn: in/whoyee<br/>
 Web: caseyyee.com 
-
-## Work Experience
-10+ YOE, 7 years Mozilla, 4 years Unity, ++startups
 
 ### Leadership
 Ability to work with multiple teams and can be engaged with Product, Design and other leadership in detailed discussions while providing deep technical knowledge.
@@ -19,6 +15,9 @@ Typescript, Javascript, Tailwind, React, Next, NestJs, Prisma, Drizzle, Postgres
 AI agents & workflows using MCP, LLMs, Python
 3D graphics, WebGL, React Three Fibre, WebRTC
 Ops, CI/CD, DevEx, Infra, AWS, Google Cloud
+
+## Work Experience
+10+ YOE, 7 years Mozilla, 4 years Unity, ++startups
 
 ## Kable
 AI Powered Video Streaming
